@@ -1,4 +1,7 @@
 @echo off
+
+rem J'ai fait un changement aujourd'hui
+
 mkdir python
 mkdir oracle
 mkdir html
